@@ -38,7 +38,6 @@
 
 .listContainer {
     margin-top: 20px;
-    position: fixed;
     display: flex;
     flex-direction: column;
     width: 40rem;
